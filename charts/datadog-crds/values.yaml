@@ -12,6 +12,7 @@ crds:
 
 migration:
   datadogAgents:
+    useCertManager: false
     # enabled: false # Will be used when we add the option to add the webhookConversion field in the CRD.
     version: "v1alpha1"
 

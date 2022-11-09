@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.10.0
+
+* Add ability to use the conversion webhook
+* Add dependency on the cert manager to manage the certificates of the conversion webhook
+
 ## 0.9.0
 
 * Add option to deactivate the conversion webhook for usecases where v2alpha1 is solely used.
